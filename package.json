@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "git:commit": "git add . && git-cz",
-    "dev:watch": "gulp watch"
+    "dev:start": "gulp watch"
   },
   "keywords": [],
   "author": "",
