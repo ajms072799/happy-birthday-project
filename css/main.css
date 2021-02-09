@@ -1,1 +1,15 @@
 @import './reset.css';
+
+body {
+    font-family: sans-serif;
+}
+
+.homepage {
+    width: 600px;
+    margin: 6.25rem auto 0 auto;
+    text-align: center;
+}
+
+.hero img {
+    width: 100%;
+}
