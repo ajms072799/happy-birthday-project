@@ -1,0 +1,15 @@
+@import './reset.css';
+
+.hero {
+    width: 600px;
+    margin: 100px auto 0 auto;
+    border: 2px dashed #eb4a4b;
+    border-radius: 15px 15px 0 0;
+}
+
+.hero h1 {
+    color: #eb4a4b;
+    font-size: 4rem;
+    text-align: center;
+    padding: 50px 0; 
+}
