@@ -71,11 +71,18 @@ h2 {
 /*
     * Section Syle
 */
+.intro__paragraph--paddingBottom {
+    padding-bottom: 2.5rem;
+}
 
 .contact__address{
     text-align: center;
     padding: 5px;
     line-height: 1;
+}
+
+.contact__email {
+    padding-bottom: 2.5rem;
 }
 
 /*
