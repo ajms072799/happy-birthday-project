@@ -98,4 +98,7 @@ h2 {
     .hero image {
         width: 100%;
     }
+    .intro__image--right, .contact__image--left {
+        float: inherit;
+    }
 }
