@@ -70,6 +70,22 @@ h2 {
     * Aside Style
 */
 
+.intro__image--right {
+    float: right;
+    padding: 2rem;
+}
+
+.contact__image--left {
+    float: left;
+    padding: 2rem;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 /*
     * Media Query
 */
