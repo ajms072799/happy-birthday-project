@@ -1,10 +1,9 @@
-const { dest, on } = require('gulp');
 const gulp = require('gulp');
 const cleanCSS = require('gulp-clean-css');
 const browserSync = require('browser-sync').create();
 
 const minifyCSS = () => {
-    return gulp.src('./css/main.css')
+    return gulp.src('./css/**/*.css')
     .pipe(cleanCSS())
     .pipe(gulp.dest('./dist/css'));
 }
