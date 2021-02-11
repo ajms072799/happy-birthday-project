@@ -29,6 +29,7 @@ section:nth-child(odd) {
 p {
     font-size: 1rem;
     line-height: 1.75;
+    padding: 35px 40px 0 40px;
 }
 
 h1, h2 {
