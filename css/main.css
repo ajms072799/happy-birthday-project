@@ -113,4 +113,7 @@ h2 {
     .intro__image--right, .contact__image--left {
         float: inherit;
     }
+    .contact__map {
+        width: 100%;
+    }
 }
