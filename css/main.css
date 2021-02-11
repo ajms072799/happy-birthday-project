@@ -56,6 +56,9 @@ h2 {
 /*  
     * Hero Style
 */
+.hero {
+    line-height: 0;
+}
 .hero img {
     width: 100%;
 }
