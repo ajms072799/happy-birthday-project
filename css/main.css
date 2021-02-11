@@ -116,4 +116,7 @@ h2 {
     .contact__map {
         width: 100%;
     }
+    p {
+        padding: 10px 40px 25px 40px;
+    }
 }
