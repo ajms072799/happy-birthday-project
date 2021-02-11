@@ -14,6 +14,18 @@ body {
     background-attachment: fixed;
 }
 
+/*
+    * Section Style
+*/
+
+section:nth-child(even) {
+    background-color: white;
+}
+
+section:nth-child(odd) {
+    background-color: lightgray;
+}
+
 p {
     font-size: 1rem;
     line-height: 1.75;
