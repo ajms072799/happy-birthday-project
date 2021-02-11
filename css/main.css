@@ -68,6 +68,16 @@ h2 {
 }
 
 /*
+    * Section Syle
+*/
+
+.contact__address{
+    text-align: center;
+    padding: 5px;
+    line-height: 1;
+}
+
+/*
     * Aside Style
 */
 
